@@ -8,8 +8,5 @@
   },
   "author": "@sonofabitz",
   "license": "ISC",
-  "dependencies": {
-    "@linclark/pkg": "^1.0.2"
-  },
   "repository": "https://github.com/sonofabitz/how-to-npm"
 }
